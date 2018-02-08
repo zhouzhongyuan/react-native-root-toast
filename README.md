@@ -1,3 +1,19 @@
+## Changed by Zhongyuan
+
+- Rename 'lib' directory to 'src'.('lib' directory is for es5 code (dist))
+- ES6 to ES5
+- eventEmitter
+- based on version 1.2.0
+
+
+## Build
+
+```bash
+npm run build
+
+```
+
+
 ### react-native-root-toast
 
 -----------------------
